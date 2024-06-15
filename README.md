@@ -45,7 +45,7 @@ This initiative facilitates online appointment requests for clients or patients 
 
  
   
------------------------------------------------
+
 
 
 # GET STARTED
@@ -76,6 +76,3 @@ Server Software: 	`Apache/2.4.39 (Win64) PHP/7.3.5`
 MySQL Version: 		`5.7.26`
 
 Demo video: https://youtu.be/mAWHYAHmit4
-
-
-
